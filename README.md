@@ -2,7 +2,7 @@
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
-[Check live demo}(https://ecommerce-website-beta-black.vercel.app/).
+ [Check live demo](https://ecommerce-website-beta-black.vercel.app/).
 ##Desktop
 This is the desktop demo
 ![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
