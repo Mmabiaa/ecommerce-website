@@ -1,9 +1,13 @@
-# Mmabiaa - An eCommerce Website
-Mmabiaa is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+# Anon - An eCommerce Website built by ##Mmabiaa
+Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
-
+###Desktop
+This is the desktop demo
 ![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+
+## Mobile
+This is the mobile demo
 ![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
