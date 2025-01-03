@@ -49,13 +49,16 @@ To install **Anon**, follow these steps:
 
 ### Linux and macOS:
 
+```bash
+    git clone https://github.com/mmabiaa/ecommerce-website.git
+```
 
+### Windows:
 
-
-
-
-
-
+```bash
+    git clone https://github.com/mmabiaa/ecommerce-website.git
+    cd ecommerce-website
+```
 
 ## Usage
 
