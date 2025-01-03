@@ -68,7 +68,7 @@ To run a local server for development purposes, you can use tools like `Live Ser
 
 ## Contact
 
-If you want to contact me, you can reach me at [Twitter](https://www.twitter.com/mmabiaa) or via email at mmabiaa@example.com.
+If you want to contact me, you can reach me at [Twitter](https://www.twitter.com/mmabiaa) or via email at [email](isbbydior@gmail.com).
 
 ## Contributing
 
