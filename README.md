@@ -9,7 +9,7 @@
 - [Desktop](#desktop)
 - [Mobile](#mobile)
 - [Prerequisites](#prerequisites)
-- [Installing Anon](#installing-anon)
+- [Installing Anon](#installing)
 - [Usage](#usage)
 - [Contact](#contact)
 - [Contributing](#contributing)
@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 * A modern web browser (e.g., Chrome, Firefox, Safari) to view the website.
 
-## Installing Anon
+## Installing 
 
 To install **Anon**, follow these steps:
 
