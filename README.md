@@ -9,7 +9,7 @@
 - [Desktop](#desktop)
 - [Mobile](#mobile)
 - [Prerequisites](#prerequisites)
-- [Installing Anon](#installing-anon)
+- [Installing Anon](#installing)
 - [Usage](#usage)
 - [Contact](#contact)
 - [Contributing](#contributing)
@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 * A modern web browser (e.g., Chrome, Firefox, Safari) to view the website.
 
-## Installing Anon
+## Installing 
 
 To install **Anon**, follow these steps:
 
@@ -68,7 +68,7 @@ To run a local server for development purposes, you can use tools like `Live Ser
 
 ## Contact
 
-If you want to contact me, you can reach me at [Twitter](https://www.twitter.com/mmabiaa) or via email at mmabiaa@example.com.
+If you want to contact me, you can reach me at [Twitter](https://www.twitter.com/mmabiaa) or via email at [email](isbbydior@gmail.com). Phone: +233 599670295
 
 ## Contributing
 
