@@ -30,11 +30,7 @@
 
 ## Desktop
 This is the desktop demo
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-
-## Mobile
-This is the mobile demo
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Desktop](https://github.com/user-attachments/assets/5591d35c-7615-4061-9b43-76c0c02b8d8a)
 
 ## Prerequisites
 
