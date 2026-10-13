@@ -81,5 +81,3 @@ Please ensure your code follows the project's coding standards and includes appr
 ## License
 
 This project is **free to use** and does not contain any specific license. However, contributions are appreciated under the same terms.
-
-
